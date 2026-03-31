@@ -1,0 +1,17 @@
+friend1_name=input("what is your name: ")
+friend2_name=input("what is your name: ")
+friend3_name=input("what is your name: ")
+friend4_name=input("what is your name: ")
+friend5_name=input("what is your name: ")
+
+friend1_birthday=input("what is your birthday: ")
+friend2_birthday=input("what is your birthday: ")
+friend3_birthday=input("what is your birthday: ")
+friend4_birthday=input("what is your birthday: ")
+friend5_birthday=input("what is your birthday: ")
+
+print(friend1_name+ friend1_birthday)
+print(friend2_name+ friend2_birthday)
+print(friend3_name+ friend3_birthday)
+print(friend4_name+ friend4_birthday)
+print(friend5_name+ friend5_birthday)
