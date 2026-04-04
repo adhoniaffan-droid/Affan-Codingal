@@ -1,0 +1,5 @@
+Input=str(input("enter your string"))
+Input2=int(input("enter your integer"))
+print(Input[2])
+print(Input[0::2])
+print(Input[::-1])

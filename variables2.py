@@ -5,4 +5,4 @@ print(y)
 
 z=input("Enter your name")
 
-print("\n hello ",z,"\nHow are you")
+print("\n hello ",z,"\How are you")
