@@ -1,0 +1,8 @@
+thislist=["mango", "dragonfruit", "banana", "grapes" and "oranges" ]
+print(thislist)
+mylist=["pyjamas", "trousers", "shorts" and "shirts"]
+print(mylist)
+myfriendslist={"gloves", "hats", "scarves", "jumper" and "people to surround him to make him feel comfortable "}
+print(myfriendslist)
+itemsthateverybodyneeds=["water", "food", "house", "friends" and "sleep"]
+print(itemsthateverybodyneeds)
